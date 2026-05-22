@@ -9,6 +9,7 @@ docs/.vitepress/cache
 .claude/
 .vs/
 .github/workflows/docker-release.yml
-personal.yml
+# 4g0tt3nSou1's private workflow files, not for main branch/repo
 .github/workflows/docker-publish.yml
+personal.yml
 personal2.yml
